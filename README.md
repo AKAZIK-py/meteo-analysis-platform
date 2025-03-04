@@ -1,5 +1,4 @@
-# meteo-analysis-platform
-# 气象数据智能分析平台
+# 气象数据智能分析平台meteo-analysis-platform
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
