@@ -1,0 +1,9 @@
+xarray
+numpy
+pandas
+matplotlib
+cartopy
+metpy
+plotly
+dash
+jinja2
